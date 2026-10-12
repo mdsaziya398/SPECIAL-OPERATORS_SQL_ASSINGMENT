@@ -116,7 +116,7 @@ Through this practice, I improved my understanding of Oracle SQL operators, data
 
 ## 👩‍💻 Author
 
-**Shaziya**
+**Saziya**
 
 B.Tech CSE (IoT) Student 
 
